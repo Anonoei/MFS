@@ -1,6 +1,8 @@
 # MFS
  Modular Filament Shelf
 
+ ![image](https://github.com/user-attachments/assets/8f0951a1-3db9-40e6-ba95-9b685288a816)
+
 ## Features
  - Expandable, just print more sides
  - Optionally secured with bolts
