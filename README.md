@@ -14,6 +14,21 @@
 - 18x M3 heatsets
 - 8x M3 nuts
 - An M3 bolt for each fastner (26x)
+- Printed Parts
+  - Thin
+    - [foot_x2](https://raw.githubusercontent.com/Anonoei/MFS/refs/heads/main/STLs/MFS-thin_foot_x2.stl)
+    - [horizontal-left_x2](https://raw.githubusercontent.com/Anonoei/MFS/refs/heads/main/STLs/MFS-thin_horizontal-joint_left_x2.stl)
+    - [horizontal-right_x2](https://raw.githubusercontent.com/Anonoei/MFS/refs/heads/main/STLs/MFS-thin_horizontal-joint_right_x2.stl)
+    - [vertical-bottom_x2](https://raw.githubusercontent.com/Anonoei/MFS/refs/heads/main/STLs/MFS-thin_vertical-joint_bottom_x2.stl)
+    - [vertical-top_x2](https://raw.githubusercontent.com/Anonoei/MFS/refs/heads/main/STLs/MFS-thin_vertical-joint_top_x2.stl)
+    - [rod-joint_x2](https://raw.githubusercontent.com/Anonoei/MFS/refs/heads/main/STLs/MFS-thin_rod-joint_x4.stl)
+  - Normal
+    - [foot_x2](https://raw.githubusercontent.com/Anonoei/MFS/refs/heads/main/STLs/MFS_foot_x2.stl)
+    - [horizontal-left_x2](https://raw.githubusercontent.com/Anonoei/MFS/refs/heads/main/STLs/MFS_horizontal-joint_left_x2.stl)
+    - [horizontal-right_x2](https://raw.githubusercontent.com/Anonoei/MFS/refs/heads/main/STLs/MFS_horizontal-joint_right_x2.stl)
+    - [vertical-bottom_x2](https://raw.githubusercontent.com/Anonoei/MFS/refs/heads/main/STLs/MFS_vertical-joint_bottom_x2.stl)
+    - [vertical-top_x2](https://raw.githubusercontent.com/Anonoei/MFS/refs/heads/main/STLs/MFS_vertical-joint_top_x2.stl)
+    - [rod-joint_x2](https://raw.githubusercontent.com/Anonoei/MFS/refs/heads/main/STLs/MFS_rod-joint_x4.stl)
 
 ### Breakdown
  - M3 heatsets (voron spec)
